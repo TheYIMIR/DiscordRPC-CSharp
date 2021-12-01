@@ -1,0 +1,16 @@
+C:\Users\fante\source\repos\SESOSASDCRPC\SESOSASDCRPC\bin\Debug\SESOSASDCRPC.exe.config
+C:\Users\fante\source\repos\SESOSASDCRPC\SESOSASDCRPC\bin\Debug\SESOSASDCRPC.exe
+C:\Users\fante\source\repos\SESOSASDCRPC\SESOSASDCRPC\bin\Debug\SESOSASDCRPC.pdb
+C:\Users\fante\source\repos\SESOSASDCRPC\SESOSASDCRPC\bin\Debug\DiscordRPC.dll
+C:\Users\fante\source\repos\SESOSASDCRPC\SESOSASDCRPC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fante\source\repos\SESOSASDCRPC\SESOSASDCRPC\bin\Debug\DiscordRPC.pdb
+C:\Users\fante\source\repos\SESOSASDCRPC\SESOSASDCRPC\bin\Debug\DiscordRPC.xml
+C:\Users\fante\source\repos\SESOSASDCRPC\SESOSASDCRPC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fante\source\repos\SESOSASDCRPC\SESOSASDCRPC\obj\Debug\SESOSASDCRPC.csprojAssemblyReference.cache
+C:\Users\fante\source\repos\SESOSASDCRPC\SESOSASDCRPC\obj\Debug\SESOSASDCRPC.Form1.resources
+C:\Users\fante\source\repos\SESOSASDCRPC\SESOSASDCRPC\obj\Debug\SESOSASDCRPC.Properties.Resources.resources
+C:\Users\fante\source\repos\SESOSASDCRPC\SESOSASDCRPC\obj\Debug\SESOSASDCRPC.csproj.GenerateResource.cache
+C:\Users\fante\source\repos\SESOSASDCRPC\SESOSASDCRPC\obj\Debug\SESOSASDCRPC.csproj.CoreCompileInputs.cache
+C:\Users\fante\source\repos\SESOSASDCRPC\SESOSASDCRPC\obj\Debug\SESOSASDCRPC.csproj.CopyComplete
+C:\Users\fante\source\repos\SESOSASDCRPC\SESOSASDCRPC\obj\Debug\SESOSASDCRPC.exe
+C:\Users\fante\source\repos\SESOSASDCRPC\SESOSASDCRPC\obj\Debug\SESOSASDCRPC.pdb
